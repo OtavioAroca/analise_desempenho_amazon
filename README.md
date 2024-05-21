@@ -74,5 +74,5 @@ Link de visualização do Dashboard: **[Acesso ao Dashboard](https://app.powerbi
 
 ## Tecnologias Utilizadas
 
-<img src="Imagens/PowerBI.png" alt="PowerBI" width="100"/>
-<img src="Imagens/Figma.png" alt="Figma" width="100"/>
+<img src="Imagens/PowerBI.png" alt="PowerBI" width="100" style="float:left; margin-right: 10px;"/>
+<img src="Imagens/Figma.png" alt="Figma" width="100" style="float:left; margin-right: 10px;"/>
