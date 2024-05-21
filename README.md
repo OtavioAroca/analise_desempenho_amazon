@@ -25,7 +25,7 @@ Utilizar as cores da Amazon no dashboard é importante porque:
 
 Abaixo estão as cores utilizadas no projeto, respeitando a identidade visual da marca, assim como o design das páginas:
 
-![Paleta de Cores](<attachment:Paleta de Cores.png>)
+![Paleta de Cores](<Imagens/Paleta de Cores.png>)
 
 ### Exemplos de Páginas
 
@@ -35,19 +35,19 @@ Abaixo estão as cores utilizadas no projeto, respeitando a identidade visual da
 
 - **Painel Geral**
   
-  ![Painel Geral](<attachment:Painel Geral.png>)
+  ![Painel Geral](<Imagens/Painel Geral.png>)
 
 - **Logística**
   
-  ![Logística](attachment:Logística.png)
+  ![Logística](Imagens/Logística.png)
 
 - **Volume de Vendas**
   
-  ![Volume de Vendas](attachment:Volume_Vendas.png)
+  ![Volume de Vendas](Imagens/Volume_Vendas.png)
 
 - **Árvore**
   
-  ![Árvore](attachment:Árvore.png)
+  ![Árvore](Imagens/Árvore.png)
 
 ## Insights do Projeto
 
@@ -74,5 +74,5 @@ Link de visualização do Dashboard: **[Acesso ao Dashboard](#)**
 
 ## Tecnologias Utilizadas
 
-![Tecnologias](attachment:image.png)
-![Ferramentas](attachment:image-2.png)
+![PowerBI](Imagens/PowerBI.png)
+![Figma](Imagens/Figma.png)
