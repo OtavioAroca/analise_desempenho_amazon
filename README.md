@@ -70,9 +70,9 @@ Abaixo estão as cores utilizadas no projeto, respeitando a identidade visual da
 
 ## Deploy do Projeto
 
-Link de visualização do Dashboard: **[Acesso ao Dashboard](#)**
+Link de visualização do Dashboard: **[Acesso ao Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDdiZTU3ZDEtNDI2YS00NDY1LTg0MWItMzA3Mzc4OWQxN2IyIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)**
 
 ## Tecnologias Utilizadas
 
-![PowerBI](Imagens/PowerBI.png)
-![Figma](Imagens/Figma.png)
+![PowerBI](Imagens/PowerBI.png | width=100)
+![Figma](Imagens/Figma.png | width=100)
