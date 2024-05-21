@@ -31,7 +31,7 @@ Abaixo estão as cores utilizadas no projeto, respeitando a identidade visual da
 
 - **Capa**
   
-  ![Capa](attachment:Capa.png)
+  ![Texto alternativo](Imagens/Capa.png)
 
 - **Painel Geral**
   
