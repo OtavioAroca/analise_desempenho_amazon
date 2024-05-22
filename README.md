@@ -2,11 +2,11 @@
 
 ## Problema
 
-A empresa enfrentava dificuldades na comparação eficiente de vendas por diferentes canais e na identificação de segmentos lucrativos. Além disso, havia limitações na análise da relação entre quantidade vendida e valor das vendas, prejudicando a identificação de padrões de comportamento do cliente.
+A empresa enfrentava dificuldades na comparação eficiente de vendas por diferentes canais. Além disso, havia limitações na análise logística e quantidade vendida, prejudicando a identificação de padrões de comportamento do cliente.
 
 ## Objetivo do Estudo
 
-O projeto tem como objetivo fornecer uma análise abrangente de dados de desempenho para ajudar a empresa a superar desafios na comparação de vendas por diferentes canais, identificação de segmentos lucrativos e análise da relação entre quantidade vendida e valor das vendas. A meta é melhorar a tomada de decisões estratégicas e operacionais, proporcionando uma visão clara e acionável sobre vários aspectos do desempenho de vendas, logística e produtos.
+O projeto tem como objetivo fornecer uma análise abrangente de dados de desempenho para ajudar a empresa a superar desafios na comparação de vendas por diferentes canais, evidenciando os pontos de melhoria. A meta é melhorar a tomada de decisões estratégicas e operacionais, proporcionando uma visão clara e acionável sobre vários aspectos do desempenho de vendas, logística e produtos.
 
 ## Layout Power BI
 
@@ -54,18 +54,17 @@ Abaixo estão as cores utilizadas no projeto, respeitando a identidade visual da
 ### 1) Análise de Vendas
 
 - Comparação eficiente das vendas por diferentes canais, possibilitando a identificação de canais mais eficazes ou áreas de melhoria.
-- Visualização clara da distribuição de vendas por categoria de produto, facilitando a identificação de segmentos de mercado mais lucrativos.
-- Análise da relação entre a quantidade vendida e o valor das vendas, auxiliando na identificação de possíveis correlações ou padrões de comportamento do cliente.
+- Visualização clara da distribuição de vendas por categoria de produto, por SKU, e estado,facilitando a identificação de segmentos de mercado que mais vendem.
 
 ### 2) Desempenho da Logística
 
 - Monitoramento do status dos envios, permitindo uma gestão mais eficiente da cadeia de suprimentos e a identificação de possíveis gargalos.
 - Visualização geográfica da distribuição de envios, facilitando o planejamento logístico e a otimização de rotas.
-- Comparação dos níveis de serviço de envio por canal de vendas, auxiliando na avaliação da eficácia dos serviços de entrega e na identificação de áreas para melhorias.
+- Comparação dos níveis de serviço de envio, auxiliando na avaliação da eficácia dos serviços de entrega e na identificação de áreas para melhorias.
 
 ### 3) Análise de Produtos
 
-- Identificação dos produtos mais populares com base na quantidade vendida ou na receita gerada, permitindo uma melhor gestão de estoque e estratégias de marketing.
+- Identificação dos produtos mais populares com base na quantidade vendida, permitindo uma melhor gestão de estoque e estratégias de marketing.
 - Visualização da relação entre o tamanho dos produtos e a quantidade vendida, oferecendo insights sobre preferências do cliente e oportunidades de otimização de portfólio.
 
 ## Deploy do Projeto
