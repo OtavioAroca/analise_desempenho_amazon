@@ -1,14 +1,14 @@
 # Dashboard - Análise de Desempenho
 
-## Problema
+## ❌ Problema
 
 A empresa enfrentava dificuldades na comparação eficiente de vendas por diferentes canais. Além disso, havia limitações na análise logística e quantidade vendida, prejudicando a identificação de padrões de comportamento do cliente.
 
-## Objetivo do Estudo
+## 🎯 Objetivo do Estudo
 
 O projeto tem como objetivo fornecer uma análise abrangente de dados de desempenho para ajudar a empresa a superar desafios na comparação de vendas por diferentes canais, evidenciando os pontos de melhoria. A meta é melhorar a tomada de decisões estratégicas e operacionais, proporcionando uma visão clara e acionável sobre vários aspectos do desempenho de vendas, logística e produtos.
 
-## Layout Power BI
+## 💄 Layout Power BI
 
 ### Importância da Identidade Visual
 
@@ -49,7 +49,7 @@ Abaixo estão as cores utilizadas no projeto, respeitando a identidade visual da
   
   ![Árvore](Imagens/Árvore.png)
 
-## Insights do Projeto
+## 💡 Insights do Projeto
 
 ### 1) Análise de Vendas
 
@@ -71,7 +71,7 @@ Abaixo estão as cores utilizadas no projeto, respeitando a identidade visual da
 
 Link de visualização do Dashboard: **[Acesso ao Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDdiZTU3ZDEtNDI2YS00NDY1LTg0MWItMzA3Mzc4OWQxN2IyIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)**
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 <img src="Imagens/PowerBI.png" alt="PowerBI" width="100" style="float:left; margin-right: 10px;"/>
 <img src="Imagens/Figma.png" alt="Figma" width="100" style="float:left; margin-right: 10px;"/>
